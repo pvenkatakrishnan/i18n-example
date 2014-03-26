@@ -24,7 +24,7 @@
         },
 
         "locale": {
-            "module": "lib/locale",
+            "module": "path:./lib/locale",
             "priority": 95,
             "enabled": true
         }
